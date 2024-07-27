@@ -1,0 +1,14 @@
+C:\Users\Natanihel\Documents\ProyectoC#\Conceptos\bin\Debug\net8.0\Conceptos.exe
+C:\Users\Natanihel\Documents\ProyectoC#\Conceptos\bin\Debug\net8.0\Conceptos.deps.json
+C:\Users\Natanihel\Documents\ProyectoC#\Conceptos\bin\Debug\net8.0\Conceptos.runtimeconfig.json
+C:\Users\Natanihel\Documents\ProyectoC#\Conceptos\bin\Debug\net8.0\Conceptos.dll
+C:\Users\Natanihel\Documents\ProyectoC#\Conceptos\bin\Debug\net8.0\Conceptos.pdb
+C:\Users\Natanihel\Documents\ProyectoC#\Conceptos\obj\Debug\net8.0\Conceptos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Natanihel\Documents\ProyectoC#\Conceptos\obj\Debug\net8.0\Conceptos.AssemblyInfoInputs.cache
+C:\Users\Natanihel\Documents\ProyectoC#\Conceptos\obj\Debug\net8.0\Conceptos.AssemblyInfo.cs
+C:\Users\Natanihel\Documents\ProyectoC#\Conceptos\obj\Debug\net8.0\Conceptos.csproj.CoreCompileInputs.cache
+C:\Users\Natanihel\Documents\ProyectoC#\Conceptos\obj\Debug\net8.0\Conceptos.dll
+C:\Users\Natanihel\Documents\ProyectoC#\Conceptos\obj\Debug\net8.0\refint\Conceptos.dll
+C:\Users\Natanihel\Documents\ProyectoC#\Conceptos\obj\Debug\net8.0\Conceptos.pdb
+C:\Users\Natanihel\Documents\ProyectoC#\Conceptos\obj\Debug\net8.0\Conceptos.genruntimeconfig.cache
+C:\Users\Natanihel\Documents\ProyectoC#\Conceptos\obj\Debug\net8.0\ref\Conceptos.dll
